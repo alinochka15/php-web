@@ -1,1 +1,1 @@
-# php-web
+# Учебный сайт на PHP + MySQL
